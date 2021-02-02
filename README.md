@@ -1,2 +1,2 @@
-# SeowYewHeng.github.io
+# Seowyh.github.io
 My personal static webpage
