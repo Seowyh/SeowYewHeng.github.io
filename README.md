@@ -1,2 +1,2 @@
-# Seowyh.github.io
+# Hello World
 My personal static webpage
